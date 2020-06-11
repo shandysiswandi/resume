@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Muhammad",
+    "description": "was an Arab religious, social, and political leader and the founder of Islam.",
+    "avatar": "https://en.wikipedia.org/wiki/Muhammad#/media/File:Dark_vignette_Al-Masjid_AL-Nabawi_Door800x600x300.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ali bin Abu Thalib",
+    "description": "was an Arab religious, social, and political leader and the founder of Islam.",
+    "avatar": "https://en.wikipedia.org/wiki/Muhammad#/media/File:Dark_vignette_Al-Masjid_AL-Nabawi_Door800x600x300.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hussaen bin Ali",
+    "description": "was an Arab religious, social, and political leader and the founder of Islam.",
+    "avatar": "https://en.wikipedia.org/wiki/Muhammad#/media/File:Dark_vignette_Al-Masjid_AL-Nabawi_Door800x600x300.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Umar bin Al-Khattab",
+    "description": "was an Arab religious, social, and political leader and the founder of Islam.",
+    "avatar": "https://en.wikipedia.org/wiki/Muhammad#/media/File:Dark_vignette_Al-Masjid_AL-Nabawi_Door800x600x300.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Abu Bakar Al-Siddiq",
+    "description": "was an Arab religious, social, and political leader and the founder of Islam.",
+    "avatar": "https://en.wikipedia.org/wiki/Muhammad#/media/File:Dark_vignette_Al-Masjid_AL-Nabawi_Door800x600x300.jpg"
+  }
+]
